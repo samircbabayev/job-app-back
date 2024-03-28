@@ -45,8 +45,8 @@ For importing via curl, command: `curl -X POST \
 
 Post. Import: ```http://127.0.0.1:8001/api/employee``` Import batch Csv
 
-Get. List: ```http://127.0.0.1:8001/api/employee```
-
-Details. Details employee: ```http://127.0.0.1:8001/api/employee/:id/details```
+Get.
+List: ```http://127.0.0.1:8001/api/employee```
+Details employee: ```http://127.0.0.1:8001/api/employee/:id/details```
 
 Delete. Delete employee: ```http://127.0.0.1:8001/api/employee/:id/delete```
